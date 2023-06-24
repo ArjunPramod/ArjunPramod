@@ -75,54 +75,44 @@
 <br>
 
 
-## <img src="https://github.com/ArjunPramod/ArjunPramod/blob/main/Resources/stats.gif" width="35"><b> Github Stats </b>
-<br>
-
 <div align="center">
+  <h2><img src="https://github.com/ArjunPramod/ArjunPramod/blob/main/Resources/stats.gif" width="35"> Github Stats </h2>
 
-<a href="https://github.com/ArjunPramod/">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArjunPramod&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-</a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArjunPramod&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="ArjunPramod"/>
-
-</a>
+  [![](https://github-readme-stats.vercel.app/api?username=ArjunPramod&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ArjunPramod)
+  [![](https://github-readme-streak-stats.herokuapp.com/?user=ArjunPramod&theme=material-palenight)](https://github.com/ArjunPramod)
 </div>
 
-<br>
-<br>
-<br>
+----
+
+<p align="center">
+  <img  src="https://github.com/ArjunPramod/ArjunPramod/blob/main/Resources/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 -----
 
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/ArjunPramod/ArjunPramod/blob/main/Resources/handshake.gif" width ="80">
-<br>
-<div align='left'>
+<h2> Let's Connect..!<img src="https://github.com/ArjunPramod/ArjunPramod/blob/main/Resources/handshake.gif" width ="80"></h2>
 
-<ul>
-
-<li>
-  <a href="https://www.linkedin.com/in/arjun-pramod-10b001231/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=0077B5&style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" style="margin-bottom: 5px;"/>
+<p>
+  <img hight="100" width="130" align="right" alt="GIF" src="https://github.com/ArjunPramod/ArjunPramod/blob/main/Resources/git_oyster.gif">
+  <div align="left">
+    Feel free to reach out to me for any inquiries or collaborations.
+  </div>
+  <br>
+  
+  <a href="mailto:arjunpramod509@gmail.com">
+    <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/ArjunPramod/ArjunPramod/blob/main/Resources/gmail.png" />
   </a>
-</li>
-
-
-
-<br>
-
-<li>
-  <a href="mailto:arjunpramod509@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
+  <a href="https://www.linkedin.com/in/arjun-pramod-10b001231/">
+    <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/ArjunPramod/ArjunPramod/blob/main/Resources/linkedin.png" />
   </a>
-</li>
-	
-</ul>
-</div>
+</p>
 
-<br>
+<br><br><br><br><br>
+
 <img src="https://github.com/ArjunPramod/ArjunPramod/blob/main/Resources/bar.gif">
 <br>
 <br>
