@@ -124,10 +124,3 @@
 </div>
 <br>
 <br>
-
------
-
-<br>
-<h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{ArjunPramod}/count.svg" alt="ArjunPramod :: Visitor's Count" /></p>
-<br>
