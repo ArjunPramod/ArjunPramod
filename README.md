@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hello, fellow coders and curious minds! <img src="https://github.com/ArjunPramod/ArjunPramod/blob/main/Resources/hi.gif" width="35"><br><br> I'm Arjun Pramod </b></h1>
 
 <p align="center">
-  <a href="https://github.com/ArjunPramod/ArjunPramod/tree/main/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=CSE+Student,;ML+Enthusiast+</>;Welcome+to+my+GitHub+profile!..&hearts;++;Active+Learner/Researcher,;Love+to+learn+new+stuffs..(^_^)"></a>
+  <a href="https://github.com/ArjunPramod/ArjunPramod/tree/main/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=CSE+Student,;AI/ML+Intern+</>;Welcome+to+my+GitHub+profile!..&hearts;++;Active+Learner/Researcher,;Love+to+learn+new+stuffs..(^_^)"></a>
 </p>
 
 
@@ -14,10 +14,10 @@
 
 <br>
 
-- Passionate ML enthusiast
-- Currently learning Machine learning by Self
-- Linkedin profile [link](https://www.linkedin.com/in/arjun-pramod-10b001231/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.linkedin.com/in/arjun-pramod-10b001231/)
+- Dedicated enthusiast fueled by a passion for AI and ML
+- Actively mastering Machine Learning through self-guided learning
+- Connect with me on LinkedIn: [link](https://www.linkedin.com/in/arjun-pramod-10b001231/)
+- Exploring new opportunities for internships and jobs. Check out my [resume!](https://www.linkedin.com/in/arjun-pramod-10b001231/)
 
 <br><br>
 
