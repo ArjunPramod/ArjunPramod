@@ -97,7 +97,7 @@
 <h2> Let's Connect..!<img src="https://github.com/ArjunPramod/ArjunPramod/blob/main/Resources/handshake.gif" width ="80"></h2>
 
 <p>
-  <img hight="100" width="130" align="right" alt="GIF" src="https://github.com/ArjunPramod/ArjunPramod/blob/main/Resources/git_oyster.gif">
+<!--   <img hight="100" width="130" align="right" alt="GIF" src="https://github.com/ArjunPramod/ArjunPramod/blob/main/Resources/git_oyster.gif"> -->
   <div align="left">
     Feel free to reach out to me for any inquiries or collaborations.
   </div>
