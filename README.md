@@ -74,7 +74,7 @@
 
 <br>
 
-
+<!--
 <div align="center">
   <h2><img src="https://github.com/ArjunPramod/ArjunPramod/blob/main/Resources/stats.gif" width="35"> Github Stats </h2>
 
@@ -83,11 +83,13 @@
 </div>
 
 ----
+-->
 
 <p align="center">
   <img  src="https://github.com/ArjunPramod/ArjunPramod/blob/main/Resources/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
+<br>
 
 -----
 
