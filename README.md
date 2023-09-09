@@ -94,7 +94,6 @@
 -----
 
 <br>
-<br>
 
 <h2> Let's Connect..!<img src="https://github.com/ArjunPramod/ArjunPramod/blob/main/Resources/handshake.gif" width ="80"></h2>
 
@@ -113,7 +112,7 @@
   </a>
 </p>
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 <img src="https://github.com/ArjunPramod/ArjunPramod/blob/main/Resources/bar.gif">
 <br>
