@@ -45,15 +45,15 @@
     ![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn%20-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
     ![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
     ![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-    ![PyTorch](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+    <!--![PyTorch](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)-->
 
 <br>
 
 - **Data Analytics Tools**:
 
     ![Excel](https://img.shields.io/badge/Microsoft%20Excel%20-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-    ![PowerBI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
-    ![Tableau](https://img.shields.io/badge/Tableau%20-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+    <!--![PowerBI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)-->
+    <!--![Tableau](https://img.shields.io/badge/Tableau%20-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)-->
 
 <br>
 
